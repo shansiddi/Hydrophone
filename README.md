@@ -79,7 +79,7 @@ Figures 6, 7, and 8 depict the spectorams for a marine mammal vocalization, airg
 <p align="center">
 <b>figure 8: Earthquake</b><br>  
   
-![](images/fig9.png)
+![](images/fig9.PNG)
 <p align="center">
 <b>figure 9: Wenz Curve [3]</b><br>  
   
