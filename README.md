@@ -12,7 +12,7 @@ B ME 450<br />
 
 Part 1 Wind and Rain Noise<br/>
 
-  7. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency<br/>
+  7.In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency<br/>
 
   8.Compare the spectral levels and answer these questions:<br/>
 
@@ -24,10 +24,10 @@ Part 1 Wind and Rain Noise<br/>
 
 Part 2 Airgun, Marine Mammals, Earthquake/Volcano Noise<br/>
 
-  1. Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.<br/>
+  1.Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.<br/>
 
-  2. Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.<br/>
+  2.Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.<br/>
 
-  3. Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.<br/>
+  3.Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.<br/>
 
-  4. Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?<br/>
+  4.Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?<br/>
