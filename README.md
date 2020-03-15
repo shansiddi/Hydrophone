@@ -1,6 +1,6 @@
 # Hydrophone
 
-Shan Siddiqui
-Dr. Abadi 
-3/14/20
+Shan Siddiqui<br/>
+Dr. Abadi <br/>
+3/14/20<br/>
 
