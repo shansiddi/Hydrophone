@@ -23,7 +23,7 @@ b) Which one has the highest impact? Rain or wind?
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 Part 2 Airgun, Marine Mammals, Earthquake/Volcano Noise
 
-In this part, data can be at any time from any location listed in this link.
+Part 2 Spectograms
 
 1. Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
 
