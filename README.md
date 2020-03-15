@@ -31,3 +31,9 @@ Part 2 Airgun, Marine Mammals, Earthquake/Volcano Noise<br/>
   3.Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.<br/>
 
   4.Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?<br/>
+  
+  Solutions Part 1<br/>
+  
+![](images/fig1.jpg)
+<p align="center">
+<b>figure 1: Power Spectral Density Formula and Conversion to dB [1]</b><br>
